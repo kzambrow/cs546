@@ -1,0 +1,16 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "Async and Await Lab",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Kamil Zambrowski 10428741",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "fs": "0.0.1-security"
+  }
+}

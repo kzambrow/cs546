@@ -1,0 +1,12 @@
+{
+  "name": "inclass1",
+  "version": "1.0.0",
+  "description": "In-Class Exercise 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Kamil Zambrowski",
+  "license": "ISC"
+}

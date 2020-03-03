@@ -1,0 +1,15 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "database for social media website for animals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Kamil Zambrowski 10428741",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.5.3"
+  }
+}
